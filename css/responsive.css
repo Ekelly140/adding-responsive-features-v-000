@@ -47,5 +47,7 @@
 }
 
 @media only screen and (max-width: 750px){
-  font-size: 0.9em;
+  .col-1, .col-2, .co-3 {
+
+  }
 }
