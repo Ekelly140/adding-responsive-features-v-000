@@ -81,4 +81,12 @@
     font-size:1.5em;
     padding: 10px 20px;
   }
+
+  #logo {
+    padding: 60px 0 0;
+  }
+
+  #social {
+    padding: 60px 0 0;
+  }
 }
